@@ -1,0 +1,4 @@
+./oep-core
+
+aws-psycopg2
+requests

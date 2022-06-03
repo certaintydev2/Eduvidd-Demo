@@ -1,1 +1,2 @@
-# Eduvidd-Demo
+# Online Education Platform(OEP)
+Backend for OEP

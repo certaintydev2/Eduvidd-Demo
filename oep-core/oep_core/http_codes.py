@@ -1,0 +1,11 @@
+from http import HTTPStatus
+
+# 2xx
+HTTP_OK = int(HTTPStatus.OK)
+HTTP_CREATED = int(HTTPStatus.CREATED)
+
+# 4xx
+HTTP_NOT_FOUND = int(HTTPStatus.NOT_FOUND)
+
+# 5xx
+HTTP_INTERNAL_SERVER_ERROR = int(HTTPStatus.INTERNAL_SERVER_ERROR)
